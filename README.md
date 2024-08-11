@@ -5,7 +5,7 @@ I am a first-year computer science student at the Macaulay Honors College @ CUNY
 
 ## 🚀 What I'm Up To
 <ul>
-  <li>Incoming Web Developer @ Jupiter Leo Productions</li>
+  <li>Incoming Software Developer @ Jupiter Leo Productions</li>
   <li>Completing The Odin Project's Full Stack Javascript Path</li>
   <li>Learning OOP in Java</li>
 </ul>
