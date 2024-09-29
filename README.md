@@ -1,7 +1,7 @@
 <h1 align = "center">Hi, I'm Dilver Singh👋</h1>
 
 # 👨‍💻 About Me:
-I am a first-year computer science student at the Macaulay Honors College @ CUNY Queens College, passionate about exploring all facets of programming and building robust full-stack applications.
+I am a second-year computer science student at the Macaulay Honors College @ CUNY Queens College, passionate about exploring all facets of programming and building robust full-stack applications.
 
 ## 🚀 What I'm Up To
 <ul>
