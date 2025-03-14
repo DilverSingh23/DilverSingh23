@@ -6,7 +6,7 @@ I am a second-year computer science student at the Macaulay Honors College @ CUN
 ## 🚀 What I'm Up To
 <ul>
   <li>Pursuing Summer 2025 Software Engineering Opportunities</li>
-  <li>Learning OOP in Java</li>
+  <li>Learning React</li>
   <li>Sharpening Data Structures & Algorithims in Python</li>
 </ul>
 
