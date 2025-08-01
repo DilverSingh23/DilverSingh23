@@ -1,12 +1,12 @@
 <h1 align = "center">Hi, I'm Dilver Singh👋</h1>
 
 # 👨‍💻 About Me:
-I am a second-year computer science student at the Macaulay Honors College @ CUNY Queens College, passionate about exploring all facets of programming and building robust full-stack applications.
+I am a junior computer science student at the Macaulay Honors College @ CUNY Queens College, passionate about exploring all facets of programming and building robust full-stack applications.
 
 ## 🚀 What I'm Up To
 <ul>
-  <li>Pursuing Summer 2025 Software Engineering Opportunities</li>
-  <li>Learning React</li>
+  <li>Pursuing Fall 2025 Software Engineering Opportunities</li>
+  <li>Building Full-Stack Applications</li>
   <li>Sharpening Data Structures & Algorithims in Python</li>
 </ul>
 
@@ -16,13 +16,24 @@ I am a second-year computer science student at the Macaulay Honors College @ CUN
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=C%2B%2B&&logoColor=white)
+
+<strong>Frontend</strong>:
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-
-<strong>Developer Tools</strong>:
+<strong>Backend & Developer Tools</strong>:
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 👥 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dilversingh)
