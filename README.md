@@ -5,7 +5,7 @@ I am a junior computer science student at the Macaulay Honors College @ CUNY Que
 
 ## 🚀 What I'm Up To
 <ul>
-  <li>Pursuing Fall 2025 Software Engineering Opportunities</li>
+  <li>Pursuing Summer 2026 Software Engineering Opportunities</li>
   <li>Building Full-Stack Applications</li>
   <li>Sharpening Data Structures & Algorithims in Python</li>
 </ul>
